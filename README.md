@@ -15,7 +15,7 @@ I am learning TypeScript step by step, creating examples, practicing concepts, a
 
 ### 📖 Basic Concepts
 
-* [ ] Chapter 1: Introduction to TypeScript
+* [X] Chapter 1: Introduction to TypeScript
 * [ ] Chapter 2: Installing and Running TypeScript
 * [ ] Chapter 3: TypeScript Basics
 * [ ] Chapter 4: Arrays and Tuples
