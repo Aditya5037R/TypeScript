@@ -16,17 +16,17 @@ I am learning TypeScript step by step, creating examples, practicing concepts, a
 ### 📖 Basic Concepts
 
 * [X] Chapter 1: Introduction to TypeScript
-* [ ] Chapter 2: Installing and Running TypeScript
-* [ ] Chapter 3: TypeScript Basics
-* [ ] Chapter 4: Arrays and Tuples
-* [ ] Chapter 5: Functions
-* [ ] Chapter 6: Objects
+* [X] Chapter 2: Installing and Running TypeScript
+* [X] Chapter 3: TypeScript Basics
+* [X] Chapter 4: Arrays and Tuples
+* [X] Chapter 5: Functions
+* [X] Chapter 6: Objects
 
 ### 🔥 Intermediate Concepts
 
-* [ ] Chapter 7: Interfaces
-* [ ] Chapter 8: Type Aliases
-* [ ] Chapter 9: Union and Intersection Types
+* [X] Chapter 7: Interfaces
+* [X] Chapter 8: Type Aliases
+* [X] Chapter 9: Union and Intersection Types
 * [ ] Chapter 10: Classes and OOP
 * [ ] Chapter 11: Generics
 * [ ] Chapter 12: Enums
