@@ -28,7 +28,7 @@ I am learning TypeScript step by step, creating examples, practicing concepts, a
 * [X] Chapter 8: Type Aliases
 * [X] Chapter 9: Union and Intersection Types
 * [x] Chapter 10: Classes and OOP
-* [ ] Chapter 11: Generics
+* [x] Chapter 11: Generics
 * [ ] Chapter 12: Enums
 
 ### ⚡ Advanced Concepts
