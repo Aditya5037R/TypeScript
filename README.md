@@ -29,11 +29,11 @@ I am learning TypeScript step by step, creating examples, practicing concepts, a
 * [X] Chapter 9: Union and Intersection Types
 * [x] Chapter 10: Classes and OOP
 * [x] Chapter 11: Generics
-* [ ] Chapter 12: Enums
+* [ ] Chapter 12: Utility Types
 
 ### ⚡ Advanced Concepts
 
-* [ ] Chapter 13: Advanced Types
+* [ ] Chapter 13: Type Guards and Type Narrowing
 * [ ] Chapter 14: Modules
 * [ ] Chapter 15: TypeScript with DOM
 * [ ] Chapter 16: TypeScript with React
